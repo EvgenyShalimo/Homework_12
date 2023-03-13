@@ -1,1 +1,5 @@
-# Homework_12
+# Homework_12![uslovie](https://user-images.githubusercontent.com/121878417/224732293-85b32409-7cf8-41c1-a731-1d038834fabc.png)
+![tabl 1](https://user-images.githubusercontent.com/121878417/224732353-8cd26dbe-46b1-46af-a5aa-e822b4f82dea.png)
+![tabl 2](https://user-images.githubusercontent.com/121878417/224732378-140eb102-8715-49f1-a3bc-6df43e187754.png)
+![connect](https://user-images.githubusercontent.com/121878417/224732403-207be25f-8d78-42a5-965d-2c2c365b2657.png)
+![final](https://user-images.githubusercontent.com/121878417/224732428-8876ef93-ac51-4493-b996-fcab177269c3.png)
